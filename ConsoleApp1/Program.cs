@@ -48,7 +48,7 @@ namespace ConsoleApp1
                 sw.WriteLine($"{dij.Ev};{dij.Keresztnev} {dij.Vezeteknev}");
             }
             sw.Close();
-            Console.WriteLine("8. feladat: orvos.txt");
+            Console.WriteLine("8. feladat: orvosi.txt");
         }
     }
 }
